@@ -1,5 +1,6 @@
 fruit
 mango
 cherry
-picking
-stash
+stas
+
+
