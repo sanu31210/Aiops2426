@@ -3,4 +3,11 @@ mango
 cherry
 stas
 
+lion
+deer
+monkkey
+
+french
+spain
+
 
