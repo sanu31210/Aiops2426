@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+
+cabbage
+cucumber
+papaya
+=======
+apple
+mango
+papaya`
+>>>>>>> feature1
